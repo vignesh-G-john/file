@@ -1,9 +1,4 @@
 import subprocess
-import time
-import os
-import io
-import sys
-import itertools
 def convertMergeImages():
     filename = 'file.jpg'
     IMG = ['corner.jpg','top.jpg','side.jpg','take.jpg']
